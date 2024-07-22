@@ -1,5 +1,5 @@
 import React from 'react'
-import DropMenuList from './drop-menu-list'
+import DropMenuList from './DropMenuList'
 
 const HeaderMenu = () => {
 	return (

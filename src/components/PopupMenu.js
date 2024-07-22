@@ -1,5 +1,5 @@
 import React, { useRef } from 'react'
-import useClickOutside from './custom-hooks/useClickOutside'
+import useClickOutside from '../custom-hooks/useClickOutside'
 
 const PopupMenu = props => {
 	const menuRef = useRef(null)

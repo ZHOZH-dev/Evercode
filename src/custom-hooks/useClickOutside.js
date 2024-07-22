@@ -1,6 +1,6 @@
 import { useEffect } from 'react'
 
-const useClickOutside = async (ref, callback) => {
+const useClickOutside = (ref, callback) => {
 	const handleClick = e => {
 		if (!ref.current.contains(e.target)) {
 			callback()

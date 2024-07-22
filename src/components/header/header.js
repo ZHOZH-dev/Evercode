@@ -1,6 +1,6 @@
 import React from 'react'
 import logo from '../../imgs/logo-header.svg'
-import HeaderMenu from './header-menu'
+import HeaderMenu from './HeaderMenu'
 
 const Header = props => {
 	return (

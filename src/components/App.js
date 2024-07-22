@@ -1,11 +1,11 @@
 import React, { useEffect, useState } from 'react'
-import Header from './header/header'
-import MapSection from './map-section'
-import Sendback from './sendback'
-import Footer from './footer/footer'
-import PopupMenu from './popup'
+import Header from './header/Header'
+import MapSection from './MapSection'
+import Sendback from './Sendback'
+import Footer from './footer/Footer'
+import PopupMenu from './PopupMenu'
 
-function Page() {
+function App() {
 	const [isClicked, setClicked] = useState(false)
 
 	useEffect(() => {
@@ -38,4 +38,4 @@ function Page() {
 	)
 }
 
-export default Page
+export default App

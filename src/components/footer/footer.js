@@ -1,6 +1,6 @@
 import React from 'react'
 import logo from '../../imgs/logo-footer.svg'
-import FooterMenuItems from './footer-menu'
+import FooterMenuItems from './FooterMenuItems'
 
 const Footer = () => {
 	return (

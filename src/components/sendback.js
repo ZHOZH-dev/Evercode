@@ -1,5 +1,5 @@
 import React, { useRef, useState } from 'react'
-import useClickWhere from './custom-hooks/useClickAnywhere'
+import useClickWhere from '../custom-hooks/useClickAnywhere'
 
 const Sendback = () => {
 	const [isChecked, setCheсked] = useState(false)
