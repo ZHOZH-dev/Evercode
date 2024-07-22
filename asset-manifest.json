@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ZHOZH-dev/Evercode.git/static/css/main.a51c9b25.css",
-    "main.js": "/ZHOZH-dev/Evercode.git/static/js/main.6526b12b.js",
-    "static/media/free-icon-phone-6861372.png": "/ZHOZH-dev/Evercode.git/static/media/free-icon-phone-6861372.eceae32fc4782e72613d.png",
-    "static/media/logo-header.svg": "/ZHOZH-dev/Evercode.git/static/media/logo-header.9dc2ef035ac3823fec0e1e32abaf919e.svg",
-    "static/media/logo-footer.svg": "/ZHOZH-dev/Evercode.git/static/media/logo-footer.843c77134e01050910a574a80a4aa0b1.svg",
-    "index.html": "/ZHOZH-dev/Evercode.git/index.html",
-    "main.a51c9b25.css.map": "/ZHOZH-dev/Evercode.git/static/css/main.a51c9b25.css.map",
-    "main.6526b12b.js.map": "/ZHOZH-dev/Evercode.git/static/js/main.6526b12b.js.map"
+    "main.css": "/Evercode/static/css/main.0aed93e9.css",
+    "main.js": "/Evercode/static/js/main.34a842af.js",
+    "static/media/free-icon-phone-6861372.png": "/Evercode/static/media/free-icon-phone-6861372.eceae32fc4782e72613d.png",
+    "static/media/logo-header.svg": "/Evercode/static/media/logo-header.9dc2ef035ac3823fec0e1e32abaf919e.svg",
+    "static/media/logo-footer.svg": "/Evercode/static/media/logo-footer.843c77134e01050910a574a80a4aa0b1.svg",
+    "index.html": "/Evercode/index.html",
+    "main.0aed93e9.css.map": "/Evercode/static/css/main.0aed93e9.css.map",
+    "main.34a842af.js.map": "/Evercode/static/js/main.34a842af.js.map"
   },
   "entrypoints": [
-    "static/css/main.a51c9b25.css",
-    "static/js/main.6526b12b.js"
+    "static/css/main.0aed93e9.css",
+    "static/js/main.34a842af.js"
   ]
 }
